@@ -11,7 +11,7 @@ public class MatematicaTeste
 	public static void main(String[] args) 
 	{
 		Matematica m = new Matematica();
-	System.out.println(m.maior(26, 20));
+		System.out.println(m.maior(26, 20));
 		int ma = m.maior(50, 30);
 		System.out.println(ma);
 	}
