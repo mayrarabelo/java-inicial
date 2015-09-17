@@ -13,8 +13,10 @@ public class RaizQuadradaPellTeste {
 	    System.out.println(n);
 	    
 	    // ou 
-	    
 	    System.out.println(m.raiz(47));
+	    
+	    // usando a classe Math
+	    System.out.println(Math.sqrt(47));
 	}
 
 }
