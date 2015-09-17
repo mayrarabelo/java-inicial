@@ -8,7 +8,7 @@ public class RaizQuadradaPellTeste {
 
 	public static void main(String[] args) {
 		
-		RaizQuadradaPell m = new RaizQuadradaPell();	     
+	    RaizQuadradaPell m = new RaizQuadradaPell();	     
 	    int n = m.raiz(5);
 	    System.out.println(n);
 	    
